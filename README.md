@@ -5,6 +5,7 @@ Class Project
 
 ## Description: 
 This repository contains a real estate website project made as part of PHP and project management assignments for a  Diploma of IT at TAFE NSW.
+This is a Readme for ICTICT514 Identify and manage the implementation of current industry specific technologies
 
 ## Table of Contents:
 - [Installation](#installation)
@@ -14,12 +15,9 @@ This repository contains a real estate website project made as part of PHP and p
 
 ## Installation: 
 To view and change this website yourself clone or download this repository and run it with a localhost server such as XAMPP or upload it to your web server. 
-Then import the `test9.sql`file, located in the !RAW folder, into your mysql database and change the `$dbhost`, `$dbuser`, `$dbpass` and `$dbname` variables in `obendb.php` to your database details. 
 
 ## Usage: 
-After you have the website and database running you can change any property information in the `dsage_property` table and team meamber information in the `dsage_team` table.
-
-To add extra images to a property use `dsage_propertyimages` table and add a new row with the image path and property ID from `dsage_property`.
+Please feel free to play around with this basic website. This is an old version of the website and was uploaded, to enable the team to be comfortable with playing with github
 
 ## Credits: 
 This project was based on a real estate bootstrap template avalible from dreamweaver
