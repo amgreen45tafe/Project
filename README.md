@@ -23,7 +23,7 @@ To add extra images to a property use `dsage_propertyimages` table and add a new
 
 ## Credits: 
 This project was based on a real estate bootstrap template avalible from dreamweaver
-It was made with the help of TAFE teachers as well as help from: <a href="https://github.com/Leo6788">Leo6788</a> and <a href="https://github.com/amgreen45tafe">amgreen45tafe</a>.
+It was made with the help of TAFE teachers as well as help from: <a href="https://github.com/Leo6788">Leo6788</a> and <a href="https://github.com/DuncanSage">DuncanSage</a>.
 
 ## License:
 The website template is licenced by Colorlib as <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a> they ask that the footer cedits remain in place.
